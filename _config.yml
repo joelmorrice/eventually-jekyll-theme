@@ -2,7 +2,7 @@
 title: Joel Morrice
 email: no-em@il.com
 description: A simple contact submission site.
-baseurl:"" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
